@@ -1,0 +1,6 @@
+Protein ID,Position ,Motif,Number of matches,Matched protein name,% match on blast,E value on blast,Function
+tr|A0A0G4N4L3|A0A0G4N4L3_9PEZI,,,15,histone deacetylase HDA1 [Saccharomyces cerevisiae S288C],39.07%,5.00E-152,"Putative catalytic subunit of a class II histone deacetylase complex; role in azole resistance via Hsp90p, and in the heat shock response; Hda1p interacts with the Hda2p-Hda3p subcomplex to form an active tetramer; deletion increases histone H2B, H3 and H4 acetylation; other members of the HDA1 histone deacetylase complex are Hda2p and Hda3p"
+tr|A0A0G4N895|A0A0G4N895_9PEZI,,,,,,,
+tr|A0A0G4L8C1|A0A0G4L8C1_9PEZI,,,10,ATP-binding cassette multidrug transporter PDR10 [Saccharomyces cerevisiae S288C],48.37%,1.00E-106,ATP-binding cassette (ABC) transporter; multidrug transporter involved in the pleiotropic drug resistance network; regulated by Pdr1p and Pdr3p
+,,,,,,,
+tr|A0A0G4L189|A0A0G4L189_9PEZI,,,8,no similarity found,no similarity found,no similarity found,no similarity found
